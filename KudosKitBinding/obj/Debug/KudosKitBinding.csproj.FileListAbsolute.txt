@@ -1,0 +1,4 @@
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\bin\Debug\KudosKitBinding.dll
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\bin\Debug\KudosKitBinding.pdb
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\obj\Debug\KudosKitBinding.dll
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\obj\Debug\KudosKitBinding.pdb

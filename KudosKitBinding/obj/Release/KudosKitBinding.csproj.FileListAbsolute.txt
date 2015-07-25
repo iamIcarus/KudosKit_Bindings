@@ -1,0 +1,4 @@
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\bin\Release\KudosKitBinding.dll
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\bin\Release\KudosKitBinding.pdb
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\obj\Release\KudosKitBinding.dll
+E:\My Programs\Xamarin\KudosKitBinding\KudosKitBinding\obj\Release\KudosKitBinding.pdb
